@@ -12,7 +12,7 @@ This repository contains my redesign of the Nike webpage, with visuals exported 
 
 ### Nike Product Page Redesign
 
-![Nike Product Page](./Desktop-3.png)
+![Nike Product Page](./Desktop - 3.png)
 
 ---
 
