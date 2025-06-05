@@ -1,21 +1,30 @@
-# UI/UX Design Project
+# Nike Webpage Redesign
 
-This repository contains my Figma design exports with image previews.
+This repository contains my redesign of the Nike webpage, with visuals exported from Figma.
 
 ---
 
 ## Design Previews
 
-### Homepage Design
+### Nike Homepage Redesign
 
-![Homepage Design](./homepage_design.png)
+![Nike Homepage](./Nike.png)
 
-### Logo Design
+### Nike Product Page Redesign
 
-![Logo Design](./logo_design.svg)
+![Nike Product Page](./Desktop-3.png)
 
 ---
 
-## About
+## About This Project
 
-These images are exported from Figma and show the visual concept of the project.
+This project is a modern redesign of the Nike website, focusing on clean UI and improved user experience based on Figma designs.
+
+The images above showcase key screens from the redesign.
+
+---
+
+## How to View
+
+- Images are stored in this repository.
+- Preview the designs directly from this README.
