@@ -1,27 +1,28 @@
-# Nike Webpage Redesign
+# 👟 Nike Webpage Redesign — Figma Edition
 
-This repository contains my redesign of the Nike webpage, with visuals exported from Figma.
+<br>
+
+## 💫 About This Project
+<br>
+🎨 Deep diving into UI/UX design with a complete Nike webpage redesign using **Figma**.<br>
+🚀 Crafting pixel-perfect layouts, clean user flows, and fresh visuals to elevate the Nike experience.<br>
+⚡ Designs are sleek, modern, and user-centric — ready to inspire and impress!
 
 ---
 
-## Design Previews
+## 🎨 Design Previews
 
-### Nike Homepage Redesign
-
+### Nike Homepage Redesign  
 ![Nike Homepage](./Nike.png)
 
 
----
+## 💻 Tools & Tech Used
 
-## About This Project
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%231877F2.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF7C00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  
 
-This project is a modern redesign of the Nike website, focusing on clean UI and improved user experience based on Figma designs.
 
-The images above showcase key screens from the redesign.
+[![](https://visitcount.itsvg.in/api?id=Chauhan-Ujjawal&icon=0&color=3)](https://visitcount.itsvg.in)
 
----
-
-## How to View
-
-- Images are stored in this repository.
-- Preview the designs directly from this README.
+<!-- Proudly crafted by Ujjawal Chauhan -->
